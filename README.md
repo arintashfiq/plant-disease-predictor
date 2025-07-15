@@ -1,6 +1,6 @@
 # 🌿 Plant Disease Predictor
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arintashfig/plant-disease-predictor/blob/main/plant-disease-model.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arintashfiq/plant-disease-predictor/blob/main/plant-disease-model.ipynb)
 
 ## Features
 - Random Forest model with **85% accuracy**
